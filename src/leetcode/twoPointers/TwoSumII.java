@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.twoPointers;
 
 import java.util.Scanner;
 
