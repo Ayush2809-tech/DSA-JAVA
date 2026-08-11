@@ -32,3 +32,6 @@ public class GroupAnagrams {
         }
     }
 }
+
+//Time: O(n × k log k)
+//Space: O(n × k)
